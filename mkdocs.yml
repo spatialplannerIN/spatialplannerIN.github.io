@@ -7,7 +7,7 @@ site_name: "[spatialPlanenrIN] - Geospatial Portfolio"
 site_description: "Portfolio of [Rushikesh Gastgar] — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "[YOUR NAME]"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-# site_url: "https://spatialplannerIN.github.io/spatialplannerINe"
+# site_url: "https://spatialplannerIN.github.io"
 
 theme:
   name: material
