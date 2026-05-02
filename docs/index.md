@@ -1,7 +1,7 @@
 <!--
 CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
+- [ ] Replace [Rushikesh Gastgar] with your full name (3 places)
+- [ ] Replace [Geospatial Data Enginener] with your current or target role
 - [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
 - [ ] Rewrite the About Me paragraph with your own words
 - [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
@@ -31,11 +31,11 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
+I am a geospatial data learner with a background in remote sensing and machine learning.
 I work on extracting actionable insights from satellite imagery and large spatial datasets
 using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
 GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+planning. I am currently seeking opportunities in Geospatial and Remote Sensing.
 
 </div>
 
