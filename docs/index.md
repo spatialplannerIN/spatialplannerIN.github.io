@@ -14,9 +14,9 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[Rushikesh Gastgar]" class="profile-photo">
-  <h1>[Rushikesh Gastgar]</h1>
-  <p><strong>[Geospatial and Remote Sensing]</strong></p>
+  <img src="assets/images/profile.png" alt="Rushikesh Gastgar" class="profile-photo">
+  <h1>Rushikesh Gastgar</h1>
+  <p><strong>Geospatial and Remote Sensing</strong></p>
   <p><em>[Turning spatial data into insights | GIS | Remote Sensing]</em></p>
 </div>
 
@@ -27,9 +27,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+
 
 I am a geospatial data learner with a background in remote sensing and machine learning.
 I work on extracting actionable insights from satellite imagery and large spatial datasets
