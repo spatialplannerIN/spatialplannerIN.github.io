@@ -55,7 +55,7 @@ planning. I am currently seeking opportunities in Geospatial and Remote Sensing.
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   **GIS & Remote Sensing**
 
     ---
 
@@ -64,7 +64,7 @@ planning. I am currently seeking opportunities in Geospatial and Remote Sensing.
     - Multispectral and SAR image analysis
     - Cloud Native Geospatial (COG, STAC, Zarr)
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-    **Programming**
 
     ---
 
@@ -82,7 +82,7 @@ planning. I am currently seeking opportunities in Geospatial and Remote Sensing.
     - scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
+-   **Web Mapping & Data**
 
     ---
 
@@ -91,7 +91,7 @@ planning. I am currently seeking opportunities in Geospatial and Remote Sensing.
     - Data formats — GeoTIFF, GeoParquet, NetCDF
     - Streamlit for data-driven web apps
 
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   **Data & Cloud**
 
     ---
 
@@ -99,7 +99,7 @@ planning. I am currently seeking opportunities in Geospatial and Remote Sensing.
     - Cloud storage: AWS S3, Google Cloud Storage
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-    **Drone / UAV Data Processing**
 
     - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
