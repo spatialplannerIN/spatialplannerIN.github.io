@@ -111,5 +111,5 @@ planning. I am currently seeking opportunities in Geospatial and Remote Sensing.
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/spatialplannerIN .md-button }
+[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/rishiwork){ .md-button }
